@@ -1,0 +1,33 @@
+_repo: Thomas-Paine-The-Apostle-of-Libertythe-Testimony-of-Five-Hundred-Witnesses_40210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Remsburg, John E. (John Eleazer)
+    alias: Remsberg, John Eleazer
+    birthdate: 1848
+    deathdate: 1919
+    gutenberg_agent_id: '44079'
+    url: http://www.gutenberg.org/2009/agents/44079
+    wikipedia: http://en.wikipedia.org/wiki/John_Remsburg
+description: ''
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Paine, Thomas, 1737-1809'
+tableOfContents: Thomas Paine, the apostle of liberty -- "Common Sense" and the American
+  Revolution -- The "Rights of Man" and the French Revolution -- "Age of Reason" and
+  recantation calumny -- Paine's place in literature -- Reforms and inventions --
+  Testimonials and tributes.
+title: "Thomas Paine, the Apostle of Liberty\r\nAn Address Delivered in Chicago, January\
+  \ 29, 1916; Including the Testimony of Five Hundred Witnesses"
+url: http://www.gutenberg.org/ebooks/40210
