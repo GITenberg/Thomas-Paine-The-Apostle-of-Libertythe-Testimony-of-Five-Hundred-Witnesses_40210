@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44079
     wikipedia: http://en.wikipedia.org/wiki/John_Remsburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40210#Thomas-Paine-The-Apostle-of-Libertythe-Testimony-of-Five-Hundred-Witnesses
 gutenberg_issued: '2012-07-11'
 gutenberg_type: Text
 identifiers:
